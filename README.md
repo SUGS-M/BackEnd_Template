@@ -1,5 +1,5 @@
 # BackEnd_Template
-echo "# BackEnd_Template" >> README.md
+echo "# BackEnd_Template" >> README.md\\
 git init
 git add README.md
 git commit -m "first commit"
